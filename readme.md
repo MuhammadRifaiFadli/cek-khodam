@@ -28,6 +28,7 @@ Proyek ini adalah aplikasi web sederhana yang memungkinkan pengguna untuk memasu
 4. Buka `http://localhost:8000` di browser kamu.
 
 ## Penggunaan
+<img src="ss.png">
 
 1. Masukkan nama kamu pada kolom input.
 2. Klik tombol "Cek Khodam".
