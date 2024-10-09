@@ -120,6 +120,7 @@
         if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST['nameInput'])) {
             $khodams = [
                 ["name" => "jigong busuk", "meaning" => "Kamu bau dan suka meludah seperti Llama, karena kamu mewariskan Air liur besar padamu."],
+                ["name" => "jigong busuk", "meaning" => "Kamu bau dan suka meludah seperti Llama, karena kamu mewariskan Air liur besar padamu."],
                 ["name" => "Llama busuk", "meaning" => "Kamu bau dan suka meludah seperti Llama, karena kamu mewariskan Air liur besar padamu."],
                 ["name" => "Harimau Putih", "meaning" => "Kamu kuat dan berani seperti harimau, karena pendahulumu mewariskan kekuatan besar padamu."],
     ["name" => "Lampu Tertidur", "meaning" => "Terlihat ngantuk tapi selalu memberikan cahaya yang hangat"],
